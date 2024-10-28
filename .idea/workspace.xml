@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py">
+    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py with path parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <workItem from="1730089748722" duration="618000" />
       <workItem from="1730090446196" duration="572000" />
       <workItem from="1730094663420" duration="511000" />
-      <workItem from="1730095182718" duration="2818000" />
+      <workItem from="1730095182718" duration="6048000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Update main.py">
       <option name="closed" value="true" />
@@ -96,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730096603980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Update main.py with path parameters">
+      <option name="closed" value="true" />
+      <created>1730098281026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730098281026</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Update main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py" />
+    <MESSAGE value="feat: Update main.py with path parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with path parameters" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastapi_tutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1730096273440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
