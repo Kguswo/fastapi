@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py with path parameters">
+    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py with Request Body">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kguswo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kguswo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kguswo/fastapi.git",
-    "accountId": "5e36047e-0ad5-4e1a-8110-540aaa094e21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kguswo/fastapi.git&quot;,
+    &quot;accountId&quot;: &quot;5e36047e-0ad5-4e1a-8110-540aaa094e21&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,7 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +78,9 @@
       <workItem from="1730089748722" duration="618000" />
       <workItem from="1730090446196" duration="572000" />
       <workItem from="1730094663420" duration="511000" />
-      <workItem from="1730095182718" duration="6048000" />
+      <workItem from="1730095182718" duration="9406000" />
+      <workItem from="1730162138220" duration="1827000" />
+      <workItem from="1730164453657" duration="2605000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Update main.py">
       <option name="closed" value="true" />
@@ -104,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730098281026</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Update main.py with Query Parameters">
+      <option name="closed" value="true" />
+      <created>1730104886727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730104886727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Update main.py" />
     <MESSAGE value="feat: Update main.py with path parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with path parameters" />
+    <MESSAGE value="feat: Update main.py with Query Parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with Query Parameters" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastapi_tutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1730096273440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
