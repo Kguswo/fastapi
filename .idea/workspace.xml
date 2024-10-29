@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py with Request Body">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="52c45639-b9d6-4505-8e12-d5caa90b6a6e" name="Changes" comment="feat: Update main.py with query parameter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +54,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -80,7 +82,7 @@
       <workItem from="1730094663420" duration="511000" />
       <workItem from="1730095182718" duration="9406000" />
       <workItem from="1730162138220" duration="1827000" />
-      <workItem from="1730164453657" duration="5950000" />
+      <workItem from="1730164453657" duration="6480000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Update main.py">
       <option name="closed" value="true" />
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730167183682</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: Update main.py with query parameter">
+      <option name="closed" value="true" />
+      <created>1730174613045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730174613045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +151,8 @@
     <MESSAGE value="feat: Update main.py with path parameters" />
     <MESSAGE value="feat: Update main.py with Query Parameters" />
     <MESSAGE value="feat: Update main.py with Request Body" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with Request Body" />
+    <MESSAGE value="feat: Update main.py with query parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with query parameter" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastapi_tutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1730096273440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
