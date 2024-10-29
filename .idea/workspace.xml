@@ -80,7 +80,7 @@
       <workItem from="1730094663420" duration="511000" />
       <workItem from="1730095182718" duration="9406000" />
       <workItem from="1730162138220" duration="1827000" />
-      <workItem from="1730164453657" duration="2605000" />
+      <workItem from="1730164453657" duration="5950000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Update main.py">
       <option name="closed" value="true" />
@@ -114,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730104886727</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Update main.py with Request Body">
+      <option name="closed" value="true" />
+      <created>1730167151798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730167151798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: Update main.py with Request Body">
+      <option name="closed" value="true" />
+      <created>1730167183682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730167183682</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +140,8 @@
     <MESSAGE value="feat: Update main.py" />
     <MESSAGE value="feat: Update main.py with path parameters" />
     <MESSAGE value="feat: Update main.py with Query Parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with Query Parameters" />
+    <MESSAGE value="feat: Update main.py with Request Body" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Update main.py with Request Body" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fastapi_tutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1730096273440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
